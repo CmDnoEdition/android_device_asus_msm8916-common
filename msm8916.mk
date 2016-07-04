@@ -60,7 +60,8 @@ PRODUCT_PACKAGES += \
     libqcompostprocbundle \
     libqcomvisualizer \
     libqcomvoiceprocessing \
-    tinymix
+    tinymix \
+    ViPER4Android
 
 # Audio configuration
 PRODUCT_COPY_FILES += \
